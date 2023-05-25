@@ -1,6 +1,9 @@
 # Divio-Docs-Repo
 A template repository to host all your documentation, collected by [divio-docs-gen](https://github.com/Denperidge-Redpencil/divio-docs-gen)!
 
+## Archived
+This repository has been archived in favour of [app-mu-info-rework](https://github.com/Denperidge-Redpencil/app-mu-info) & [an adapted semantic.works](https://github.com/Denperidge-Redpencil/semantic.works)!
+
 ## Usage
 Simply set the environment variables (through a .env file in this folder, or using your shell) and run `./run.sh`! It can be automated using GH Actions or crontab.
 If you want to put the docs in this folder, make sure to set `DOCS=../`. Alternatively, you can use `DOCS=../docs/` to output in a subdirectory. 
